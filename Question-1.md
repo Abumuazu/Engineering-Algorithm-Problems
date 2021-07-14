@@ -101,7 +101,6 @@ const input = [
   },
 ];
 ```
-
 ## Example Output
 
 ```js
